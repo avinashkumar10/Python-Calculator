@@ -123,7 +123,7 @@ operations={'ADD':add,'ADDITION':add,'SUM':add,'PLUS':add,
             'PRODUCT': mul, 'MULTIPLICATION': mul,'MULTIPLY': mul,
             'DIVISION': div, 'DIV': div, 'DIVIDE': div,
             'LCM':lcm , 'HCF':hcf,
-            'MOD':mod ,'REMAINDER':mod , 'MODULUS':mod }
+            'MOD':mod ,'REM':mod , 'MODULUS':mod }
 
 
 def findNumbers(t):
